@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chack Box</string>
+    <string name="question">Whos your favorit person ?</string>
+    <string name="question_2">Whos your favirit person ?</string>
+    <string name="mom">Mom</string>
+    <string name="dad">Dad</string>
+    <string name="grandpa">Grandpa</string>
+    <string name="show">Show</string>
+</resources>
